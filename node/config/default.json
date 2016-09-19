@@ -2,5 +2,5 @@
     "appSecret": "426b4b3bde193854aed233cba2a56caa",
     "pageAccessToken": "fd76444afb7578178f84986bbdc5271a",
     "validationToken": "23423423",
-    "serverURL": "http://srivallitest-env.us-east-1.elasticbeanstalk.com/node/public/"
+    "serverURL": "http://srivallitest-env.us-east-1.elasticbeanstalk.com/public/"
 }
